@@ -1,0 +1,60 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<style>
+h1{
+
+color:red;
+
+text-align:center;
+
+text-decoration:underline;
+
+text-indent:20px;
+
+text-transform:capitalize;
+
+word-spacing:normal;
+
+font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+
+font-variant:small-caps;
+
+
+
+}
+
+#a1{
+
+background-color:Black;
+height:210px;
+width:250px;	
+Float:left;
+}
+
+#a2{
+	
+	
+	background-color:Black;
+	
+height:200px;
+width:260px;
+Float:left;
+}
+
+
+</style>
+
+<body>
+<h1>Hellow World</h1>
+<p style="margin:20px 30px 40px 100px">THe color of my eye is blue<span style="color:blue">
+Blue</span>
+
+</span></p>
+
+<div id="a1"><video src="../../Public/Videos/Sample Videos/Wildlife.wmv" width="300" height="300" controls autoplay>
+</video></div>
+<div id="a2"><audio src="../../Public/Music/Sample Music/Kalimba.mp3" width="300" height="300" controls autoplay>
+</video></div>
+</body>
+</html>
